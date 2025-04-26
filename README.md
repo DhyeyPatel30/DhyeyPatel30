@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My personal portfolio website**
 
-- 🌱 I’m currently learning **Search Engine Optimization, React & Express**
+- 🌱 I’m currently learning **Search Engine Optimization & Express**
 
 - 🤝 I’m looking for help with **UI designing of my personal portfolio website**
 
