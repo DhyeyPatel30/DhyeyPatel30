@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **My personal portfolio website**
 
-- 🌱 I’m currently learning **Machine Learning, Data analysis**
-
 - 🤝 I’m looking for help with **UI designing of my personal portfolio website**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/DhyeyPatel30](https://www.github.com/DhyeyPatel30)
-
 - 🌐 Visit my temporary portfolio website [Dhyey.portfolio](https://www.datascienceportfol.io/dhyeypatel30)
+
+- 🌱 I’m currently learning **Machine Learning, Data analysis**
+
+- 👨‍💻 All of my projects are available at [https://www.github.com/DhyeyPatel30](https://www.github.com/DhyeyPatel30)
 
 - 📫 How to reach me **dhyeyptl3074@gmail.com**
 
